@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEyHvhGJtZdTbQY//dLOZL+igYtebdBAEM6ehMf3ZB/bVenb7samYeLdR6iBjsve8y2XRIpwqDJ2r4qQkTMrvA==",
+  "success": true,
+  "projectFilePath": "D:\\tai lieu\\Winform Thuc hanh\\Buoi_2\\QLSV\\QLSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Le Cuong\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Le Cuong\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Le Cuong\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Le Cuong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
